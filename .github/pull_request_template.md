@@ -20,3 +20,6 @@ _Diferente do risco, o impacto negativo é algo que sabemos que irá acontecer e
 
 ## Instruções para deploy
 _Informe os requisitos, dependências e configurações adicionais que deverão ser executadas antes ou depois do deploy deste PR._
+
+## Instruções para retorno
+_Descreva detalhadamente o plano de retorno deste PR em caso de rollback, como reversão de migrations, remoção/alteração de variáveis de ambiente ou configurações._
