@@ -1,5 +1,6 @@
 ## O que mudou
-_Descreva em poucas palavras o que muda para clientes ou colaboradores da Vindi. Não use termos técnicos nesta descrição pois isso será divulgado para áreas de negócio da empresa. Caso a mudança seja puramente técnica ou interna sem impacto direto ao cliente, escreva "Mudanças internas"._
+_Descreva resumidamente a mudança. Evite usar termos técnicos nesta descrição pois, dependendo do projeto, ela será divulgado para áreas de negócio da empresa. Mesmo mudanças puramente técnicas e ou internas que não possuirão impacto direto aos clientes finais devem ser descritas de forma que alguém com conhecimento básico sobre o assunto possa entender.
+GMUDs com pull requests que não possuam este campo ou que não estejam de acordo com os requisitos acima não serão executadas._
 
 ## Motivação
 **Issue**: _Adicione o link para issue que originou este PR, caso exista._
